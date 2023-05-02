@@ -1,4 +1,4 @@
-Privacy Policy
+<H1>Privacy Policy<h1>
 
 Introduction
 
