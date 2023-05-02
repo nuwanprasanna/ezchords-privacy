@@ -37,4 +37,5 @@ This Service does not address anyone under the age of 13. We do not knowingly co
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately,after they are posted on this page.
 
 <h3>Contact Us</h3>
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. For more information, please visit our Privacy Policy at https://streamy.eu.org/. Contact Information: Email: unifaceplus@gmail.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. For more information, please visit our Privacy Policy at https://streamy.eu.org/. 
+Contact Information: Email: unifaceplus@gmail.com
